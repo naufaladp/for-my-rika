@@ -11,7 +11,7 @@ const CONFIG = {
     repeatButton: "Ulangi pertanyaan",
     flowerTitle: "Ini kado spesial buat kamu ",
     takeBouquetButton: "Terima hadiahnya ",
-    bouquetMessage: "Yeay! Udah jadi milik kamu 💕",
+    bouquetMessage: "Yeay! Udah jadi milik kamu 💕 Maaf yaa.. cuman bisa kasih begini, bukan kasih kamu coklat:)",
     nextFlowerButton: "Next ",
     collageTitle: "My Beautiful You",
     collageSubtitle: "Sejak kamu hadir, hal sederhana pun terasa istimewa. Happy Valentine, my favorite person. 💕",
@@ -367,3 +367,4 @@ document.addEventListener('DOMContentLoaded', () => {
     new ParticleSystem();
     initMouseTrail();
 });
+
